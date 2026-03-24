@@ -102,7 +102,7 @@ python create_and_save_all_plots.py
 
 If you use this code or our findings in your research, please cite our paper:
 
-**[Gut Microbial Signatures for Early Screening of Autism Spectrum Disorder: An Interpretable Machine Learning Approach]** *Glykeria Theodorou, Konstantinos Mitsis, Aris Markogiannakis, Konstantina Nikita* IEEE International Conference on Bioinformatics and Bioengineering (BIBE), 2025.
+**[Gut Microbial Signatures for Early Screening of Autism Spectrum Disorder: An Interpretable Machine Learning Approach]** *Glykeria Theodorou, Aris Markogiannakis, Konstantinos Mitsis, Maria Athanasiou Konstantina Nikita* IEEE International Conference on Bioinformatics and Bioengineering (BIBE), 2025.
 
 ### BibTeX
 ```bibtex
