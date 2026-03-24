@@ -4,6 +4,15 @@
 
 This repository provides a robust, end-to-end machine learning pipeline that leverages gut microbiome profiles to classify children with Autism Spectrum Disorder (ASD) versus neurotypical controls. By combining rigorous feature selection, compositional data augmentation, and explainable AI (SHAP), this project identifies biologically meaningful microbial biomarkers while mitigating the challenges of high dimensionality and dataset heterogeneity.
 
+## 📊 Data Availability
+
+This project utilizes gut microbial profiles merged from 9 distinct cohorts. The raw microbiome abundance files and associated metadata used to train and evaluate this framework are publicly available.
+
+You can access and download the datasets here:
+**https://github.com/mortonjt/asd_multiomics_analyses/tree/main/sfari/data/sra**
+
+
+
 ## 🏗️ Architecture & Pipeline
 
 The framework is structured around four core pillars:
