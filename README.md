@@ -89,5 +89,21 @@ python create_and_save_all_plots.py
 * **Documentation:** `BIBE-2025_paper_115.pdf`
 
 ---
-**Citation:** If you use this code, please cite our paper: *Gut Microbial Signatures for Early Screening of Autism Spectrum Disorder: An Interpretable Machine Learning Approach* (BIBE 2025).
+## 📝 Citation
 
+If you use this code or our findings in your research, please cite our paper:
+
+**[Gut Microbial Signatures for Early Screening of Autism Spectrum Disorder: An Interpretable Machine Learning Approach]** *Glykeria Theodorou, Konstantinos Mitsis, Aris Markogiannakis, Konstantina Nikita* IEEE International Conference on Bioinformatics and Bioengineering (BIBE), 2025.
+
+### BibTeX
+```bibtex
+@INPROCEEDINGS{11273536,
+  author={Theodorou, Glykeria and Markogiannakis, Aris and Athanasiou, Maria and Mitsis, Konstantinos and Nikita, Konstantina},
+  booktitle={2025 IEEE 25th International Conference on Bioinformatics and Bioengineering (BIBE)}, 
+  title={Gut Microbial Signatures for Early Screening of Autism Spectrum Disorder: An Interpretable Machine Learning Approach}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={346-352},
+  keywords={Autism;Microorganisms;Biological system modeling;Pipelines;Machine learning;Predictive models;Biomarkers;Feature extraction;Data augmentation;Data models;ASD;Gut Microbiome;gut-brain axis;ML models;data augmentation},
+  doi={10.1109/BIBE66822.2025.00064}}
